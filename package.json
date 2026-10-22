@@ -260,7 +260,7 @@
     "@eslint/js": "^9.39.3",
     "@github/markdownlint-github": "^0.6.3",
     "@graphql-inspector/core": "^8.0.0",
-    "@graphql-tools/load": "^8.1.8",
+    "@graphql-tools/load": "^8.1.21",
     "@octokit/graphql": "9.0.1",
     "@octokit/plugin-retry": "8.0.1",
     "@octokit/request-error": "7.0.0",
@@ -291,7 +291,7 @@
     "change-case": "^5.4.4",
     "commander": "^15.0.0",
     "cross-env": "^10.1.0",
-    "csv-parse": "7.0.0",
+    "csv-parse": "7.0.2",
     "domhandler": "^6.0.1",
     "eslint": "^9.39.3",
     "eslint-config-prettier": "^10.1.8",
@@ -351,7 +351,7 @@
     "cheerio": {
       "undici": "^7.29.0"
     },
-    "markdown-it": "^14.3.2",
+    "markdown-it": "^14.3.3",
     "minimatch@10": {
       "brace-expansion": "^5.0.8"
     },
